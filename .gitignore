@@ -1,0 +1,8 @@
+.venv/
+
+templates/
+
+.vscode/
+
+*.db
+*.jsonl
